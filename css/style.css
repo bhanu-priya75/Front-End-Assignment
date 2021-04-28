@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@1,900&display=swap');
+
+.hgt{
+	height: 400px;
+}
+
+.ticon2 {
+  background-image: url("data:image/svg+xml;..");
+}
+.fnt{
+	font-family: sans-serif;
+	font-size: 18px;
+	color: black !important;
+	font-weight: bold;
+	}
+.fntt{
+
+	font-family: sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+
+.imgr {
+	height: 500px; 
+	width: 400px;
+}
+
+@media screen and (min-width: 450px){
+   }
+   @media screen and (max-width: 450px) {
+       
+       .imgr{height: 400px; width: 300px;}   
+       }
+   }
+
+   .imag {
+  position: relative;
+  text-align: center;
+  margin-top: 10px;
+  color: white;
+}
+ .centered {
+ 	margin-top: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.inputt{
+
+  width: 100%;
+  height: 40px;
+  padding:1px;
+  border: 1px solid #f2f2f2;
+  resize: vertical;
+  background-color: #f2f2f2;
+
+
+}
+.butt{
+	width: 100%;
+  height: 40px;
+  padding:1px;
+}
+
+.foot{
+	color: #cc9900;
+	font-size: 10px;
+}
+
